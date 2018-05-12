@@ -1,0 +1,32 @@
+_repo: The-Story-of-Mattie-J.-JacksonSlavery-Incidents-during-the-War-Her-Escape-from-Slavery_17827
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thompson, L. S. (Lucy S.)
+    alias: Thompson, Lucy S.
+    gutenberg_agent_id: '7626'
+    url: http://www.gutenberg.org/2009/agents/7626
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slaves -- Missouri -- Biography'
+- !lcsh 'Jackson, Mattie J.'
+- !lcc 'E300'
+- !lcsh 'Slaves'' writings, American'
+title: 'The Story of Mattie J. Jackson
+
+  Her Parentage—Experience of Eighteen years in
+
+  Slavery—Incidents during the War—Her Escape from Slavery'
+url: http://www.gutenberg.org/ebooks/17827
