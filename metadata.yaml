@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '7626'
     url: http://www.gutenberg.org/2009/agents/7626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17827#The-Story-of-Mattie-J.-JacksonSlavery-Incidents-during-the-War-Her-Escape-from-Slavery
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2006-02-22'
 gutenberg_type: Text
